@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<BinaryTree boostWeight="1.0000000000000000e+00" itree="34" type="DecisionTree">
+      <Node Cut="0.0000000000000000e+00" IVar="5" NCoef="0" cType="1" depth="0" nType="0" pos="s" purity="0.0000000000000000e+00" res="2.3819102346897125e-01" rms="-nan">
+        <Node Cut="1.0000000000000000e+00" IVar="4" NCoef="0" cType="1" depth="1" nType="0" pos="l" purity="0.0000000000000000e+00" res="1.5136379003524780e-01" rms="-nan">
+          <Node Cut="0.0000000000000000e+00" IVar="4" NCoef="0" cType="1" depth="2" nType="0" pos="l" purity="0.0000000000000000e+00" res="1.3652887940406799e-01" rms="-nan">
+            <Node Cut="8.0000000000000000e+01" IVar="1" NCoef="0" cType="1" depth="3" nType="0" pos="l" purity="0.0000000000000000e+00" res="0.0000000000000000e+00" rms="0.0000000000000000e+00">
+              <Node Cut="-2.0000000000000000e+00" IVar="5" NCoef="0" cType="1" depth="4" nType="0" pos="l" purity="0.0000000000000000e+00" res="1.1553629301488400e-02" rms="2.9911074042320251e-01">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="5.1881000399589539e-02" rms="1.4168748855590820e+00" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="1.0725013911724091e-02" rms="8.3478689193725586e-01" />
+              </Node>
+              <Node Cut="6.0000000000000000e+00" IVar="0" NCoef="0" cType="1" depth="4" nType="0" pos="r" purity="0.0000000000000000e+00" res="-1.1927069164812565e-02" rms="2.7407985925674438e-01">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="3.3856922388076782e-01" rms="1.1861073970794678e+00" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="-1.2181410565972328e-03" rms="2.7231571078300476e-01" />
+              </Node>
+            </Node>
+            <Node Cut="1.4000000000000000e+01" IVar="0" NCoef="0" cType="1" depth="3" nType="0" pos="r" purity="0.0000000000000000e+00" res="-3.4276995807886124e-02" rms="6.1437064409255981e-01">
+              <Node Cut="7.0000000000000000e+00" IVar="0" NCoef="0" cType="1" depth="4" nType="0" pos="l" purity="0.0000000000000000e+00" res="-7.7043220400810242e-02" rms="6.0357362031936646e-01">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="8.9459065347909927e-03" rms="1.0874073505401611e+00" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="-9.0688122436404228e-03" rms="5.4295039176940918e-01" />
+              </Node>
+              <Node Cut="1.7900000000000000e+02" IVar="1" NCoef="0" cType="1" depth="4" nType="0" pos="r" purity="0.0000000000000000e+00" res="0.0000000000000000e+00" rms="0.0000000000000000e+00">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-1.9285399466753006e-03" rms="6.4680725336074829e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="-7.1701095439493656e-03" rms="2.0592325925827026e-01" />
+              </Node>
+            </Node>
+          </Node>
+          <Node Cut="-1.0000000000000000e+00" IVar="6" NCoef="0" cType="1" depth="2" nType="0" pos="r" purity="0.0000000000000000e+00" res="-5.0505060702562332e-02" rms="2.7827504277229309e-01">
+            <Node Cut="2.0000000000000000e+00" IVar="4" NCoef="0" cType="1" depth="3" nType="0" pos="l" purity="0.0000000000000000e+00" res="-8.4432046860456467e-03" rms="6.6082939505577087e-02">
+              <Node Cut="-1.0000000000000000e+00" IVar="5" NCoef="0" cType="1" depth="4" nType="0" pos="l" purity="0.0000000000000000e+00" res="-7.1976813487708569e-03" rms="6.3656903803348541e-02">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-7.0802005939185619e-03" rms="1.9389185309410095e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="-2.6626435574144125e-03" rms="2.0870372653007507e-01" />
+              </Node>
+              <Node Cut="4.1000000000000000e+01" IVar="1" NCoef="0" cType="1" depth="4" nType="0" pos="r" purity="0.0000000000000000e+00" res="0.0000000000000000e+00" rms="0.0000000000000000e+00">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-5.8111371472477913e-03" rms="3.4762728214263916e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="-1.9765833392739296e-02" rms="2.3815903067588806e-01" />
+              </Node>
+            </Node>
+            <Node Cut="1.3000000000000000e+01" IVar="0" NCoef="0" cType="1" depth="3" nType="0" pos="r" purity="0.0000000000000000e+00" res="-1.1443470418453217e-01" rms="5.7030105590820312e-01">
+              <Node Cut="0.0000000000000000e+00" IVar="6" NCoef="0" cType="1" depth="4" nType="0" pos="l" purity="0.0000000000000000e+00" res="-1.2963227927684784e-01" rms="4.4002598524093628e-01">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-1.1757418513298035e-02" rms="2.9728499054908752e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="-1.9927496090531349e-02" rms="5.5983179807662964e-01" />
+              </Node>
+              <Node Cut="3.0000000000000000e+00" IVar="4" NCoef="0" cType="1" depth="4" nType="0" pos="r" purity="0.0000000000000000e+00" res="-1.8207095563411713e-02" rms="2.3297208547592163e-01">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-9.7478330135345459e-03" rms="5.9130197763442993e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="6.0001886449754238e-03" rms="1.1194677352905273e+00" />
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+        <Node Cut="1.0000000000000000e+00" IVar="5" NCoef="0" cType="1" depth="1" nType="0" pos="r" purity="0.0000000000000000e+00" res="-4.3910900130867958e-03" rms="3.3948913216590881e-01">
+          <Node Cut="1.0000000000000000e+00" IVar="4" NCoef="0" cType="1" depth="2" nType="0" pos="l" purity="0.0000000000000000e+00" res="3.9970684051513672e-01" rms="-nan">
+            <Node Cut="-1.0000000000000000e+00" IVar="6" NCoef="0" cType="1" depth="3" nType="0" pos="l" purity="0.0000000000000000e+00" res="1.1078015901148319e-02" rms="5.1916033029556274e-01">
+              <Node Cut="2.7000000000000000e+01" IVar="0" NCoef="0" cType="1" depth="4" nType="0" pos="l" purity="0.0000000000000000e+00" res="-3.9477407932281494e-02" rms="3.0823993682861328e-01">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-7.2678606957197189e-03" rms="2.4788150191307068e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="1.0975144687108696e-04" rms="3.6474633216857910e-01" />
+              </Node>
+              <Node Cut="-2.0000000000000000e+00" IVar="4" NCoef="0" cType="1" depth="4" nType="0" pos="r" purity="0.0000000000000000e+00" res="3.7333402037620544e-01" rms="-nan">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="5.9168320149183273e-02" rms="1.5793302059173584e+00" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="6.1727045103907585e-03" rms="1.0235432386398315e+00" />
+              </Node>
+            </Node>
+            <Node Cut="3.0000000000000000e+00" IVar="4" NCoef="0" cType="1" depth="3" nType="0" pos="r" purity="0.0000000000000000e+00" res="-9.7953863441944122e-03" rms="3.0939185619354248e-01">
+              <Node Cut="1.6000000000000000e+01" IVar="0" NCoef="0" cType="1" depth="4" nType="0" pos="l" purity="0.0000000000000000e+00" res="-3.1156845390796661e-02" rms="8.1767427921295166e-01">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-7.3824734427034855e-03" rms="6.5808612108230591e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="-2.7700242935679853e-04" rms="9.0733724832534790e-01" />
+              </Node>
+              <Node Cut="5.2000000000000000e+01" IVar="1" NCoef="0" cType="1" depth="4" nType="0" pos="r" purity="0.0000000000000000e+00" res="0.0000000000000000e+00" rms="0.0000000000000000e+00">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="2.6955079287290573e-02" rms="1.3865654468536377e+00" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="5.6697834283113480e-02" rms="1.5529369115829468e+00" />
+              </Node>
+            </Node>
+          </Node>
+          <Node Cut="0.0000000000000000e+00" IVar="4" NCoef="0" cType="1" depth="2" nType="0" pos="r" purity="0.0000000000000000e+00" res="1.8132525682449341e-01" rms="-nan">
+            <Node Cut="-1.0000000000000000e+00" IVar="6" NCoef="0" cType="1" depth="3" nType="0" pos="l" purity="0.0000000000000000e+00" res="-1.1091867834329605e-01" rms="3.8201966881752014e-01">
+              <Node Cut="5.6000000000000000e+01" IVar="0" NCoef="0" cType="1" depth="4" nType="0" pos="l" purity="0.0000000000000000e+00" res="-6.6971980035305023e-02" rms="2.2612659633159637e-01">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-6.7107575014233589e-03" rms="2.2472265362739563e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="4.5784556865692139e-01" rms="3.9497718214988708e-01" />
+              </Node>
+              <Node Cut="2.5000000000000000e+01" IVar="1" NCoef="0" cType="1" depth="4" nType="0" pos="r" purity="0.0000000000000000e+00" res="0.0000000000000000e+00" rms="0.0000000000000000e+00">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-3.9578706026077271e-02" rms="1.0018391609191895e+00" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="-1.5178480185568333e-02" rms="5.1248270273208618e-01" />
+              </Node>
+            </Node>
+            <Node Cut="2.8000000000000000e+01" IVar="1" NCoef="0" cType="1" depth="3" nType="0" pos="r" purity="0.0000000000000000e+00" res="0.0000000000000000e+00" rms="0.0000000000000000e+00">
+              <Node Cut="-1.0000000000000000e+00" IVar="6" NCoef="0" cType="1" depth="4" nType="0" pos="l" purity="0.0000000000000000e+00" res="1.1597150936722755e-02" rms="5.9334659576416016e-01">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-1.2921640649437904e-02" rms="4.5417547225952148e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="8.6365221068263054e-03" rms="1.2107367515563965e+00" />
+              </Node>
+              <Node Cut="1.4900000000000000e+02" IVar="1" NCoef="0" cType="1" depth="4" nType="0" pos="r" purity="0.0000000000000000e+00" res="0.0000000000000000e+00" rms="0.0000000000000000e+00">
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="l" purity="0.0000000000000000e+00" res="-1.3587679713964462e-03" rms="5.0568258762359619e-01" />
+                <Node Cut="0.0000000000000000e+00" IVar="-1" NCoef="0" cType="1" depth="5" nType="-99" pos="r" purity="0.0000000000000000e+00" res="-6.5569314174354076e-03" rms="2.5625020265579224e-01" />
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </BinaryTree>
+    
