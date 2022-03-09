@@ -23,4 +23,7 @@ Versions
     * Training with bit compression and no RPCs -  to test rate anomoly 
     * Run2 w/ Run2 variables with bit compression and with RPCs off 
 
+* `v2p0`
+    * Training with new sample that is properly flat in 1/pT
+    * Run2 w/ Run2 variables with bit compression
 
