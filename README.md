@@ -27,3 +27,10 @@ Versions
     * Training with new sample that is properly flat in 1/pT
     * Run2 w/ Run2 variables with bit compression
 
+* `v3p0`
+    * Training with true flat in 1/pT sample
+    * Run2 w/ Run2 variables and bit compression
+    * Log2Pt Target
+    * 1/Log2Pt Event Weight
+    * No DeWeighting for RPCs
+    * 1000 MAX PT Train
