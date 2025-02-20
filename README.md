@@ -34,3 +34,9 @@ Versions
     * 1/Log2Pt Event Weight
     * No DeWeighting for RPCs
     * 1000 MAX PT Train
+
+* `v4p0`
+    * Training done in XGBoost
+    * Includes Loose HMT Bit (#Loose Showers > 0)
+    * pT Promotion if 2 Loose or 1 Nominal shower
+
